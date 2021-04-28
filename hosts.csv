@@ -1,0 +1,3 @@
+nome;status;groupos;tipo_interface;porta;ip
+cadastro agent;0;18;1;10050;192.168.100.1
+cadastro snmp;0;18;2;161;192.168.100.254
